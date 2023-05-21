@@ -1,5 +1,5 @@
 # 💫 About Me:
-React Project<br>Learning MERN stack
+Working on a React Project<br>Learning MERN stack
 
 
 ## 🌐 Socials:
