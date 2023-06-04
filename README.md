@@ -1,5 +1,4 @@
-![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/ajtTiahi99/ajtTiahi99/assets/56084820/e5eee89a-d017-40fa-a54b-61771616ae86)
-
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/ajtTiahi99/ajtTiahi99/assets/56084820/34b3ad50-0a0e-456b-8d01-c992c522f2b0)
 
 # 💫 About Me:
 Working on a React Project<br>Learning MERN stack
