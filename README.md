@@ -9,7 +9,7 @@ Working on a React Project<br>Learning MERN stack
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjita-7846691b8/)
 
 # 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,mongodb,express,nodejs,python,cpp,postman,firebase,git,mysql,selenium)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,mongodb,express,nodejs,python,cpp,postman,firebase,git,mysql,selenium,nextjs,scss,redux)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ajtTiahi99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
