@@ -5,7 +5,6 @@ Working on a React Project<br>Learning MERN stack
 
 
 ## 🌐 Socials:
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/web-dev-cody) 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjita-7846691b8/)
 
 # 💻 Tech Stack:
