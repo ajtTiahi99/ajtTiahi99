@@ -1,4 +1,4 @@
-![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/ajtTiahi99/ajtTiahi99/assets/56084820/34b3ad50-0a0e-456b-8d01-c992c522f2b0)
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/ArjitaTripathi/ajtTiahi99/assets/56084820/34b3ad50-0a0e-456b-8d01-c992c522f2b0)
 
 # 💫 About Me:
 Working on a React Project<br>Learning MERN stack
@@ -11,12 +11,12 @@ Working on a React Project<br>Learning MERN stack
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,mongodb,express,nodejs,python,cpp,postman,firebase,git,mysql,selenium,nextjs,scss,redux)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ajtTiahi99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ajtTiahi99&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajtTiahi99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ArjitaTripathi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ArjitaTripathi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjitaTripathi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ajtTiahi99&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ArjitaTripathi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ajtTiahi99&icon=0&color=0)](https://visitcount.itsvg.in)
